@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Beer App AYU</string>
+    <string name="search">Search</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="player_error">Error initializing YouTube player: %s</string>
+    <string name="title_activity_main">Beer App AYU</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="settings_stuff_goes_here">Settings stuff goes here</string>
+    <string name="description">Description</string>
+    <string name="location">Location</string>
+    <string name="title">Title</string>
+    <string name="ownership">Ownership</string>
+    <string name="youtube">Youtube</string>
+    <string name="add_to_database">Add to Database</string>
+    <string name="textview">TextView</string>
+    <string name="barcode">Barcode</string>
+    <string name="scan">scan</string>
+    <string name="desc">Picture of Beer</string>
+
+</resources>
